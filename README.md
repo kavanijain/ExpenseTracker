@@ -13,19 +13,19 @@ Student Expense Tracker: A powerful website for students to stay on top of their
 
 ## Screenshot
 Register:
-![1](img/1.png)
+![Screenshot](img/1.png)
 
 Login:
-![2](img/2.png)
+![Screenshot](img/2.png)
 
 Track previous records:
-![3](img/3.png)
+![Screenshot](img/3.png)
 
 Add new data:
-![4](img/4.png)
+![Screenshot](img/4.png)
 
 Graphs:
-![5](img/5.png)
+![Screenshot](img/5.png)
 
 
 ## Deployed at
