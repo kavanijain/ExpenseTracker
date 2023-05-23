@@ -11,21 +11,21 @@ Student Expense Tracker: A powerful website for students to stay on top of their
 - React JS 
 - MongoDB
 
-## Screenshot
+## Screenshots
 Register:
-![Screenshot](/img/1.png)
+![1](/img/1.png)
 
 Login:
-![Screenshot](/img/2.png)
+![2](/img/2.png)
 
 Track previous records:
-![Screenshot](/img/3.png)
+![3](/img/3.png)
 
 Add new data:
-![Screenshot](/img/4.png)
+![4](/img/4.png)
 
 Graphs:
-![Screenshot](/img/5.png)
+![5](/img/5.png)
 
 
 ## Deployed at
