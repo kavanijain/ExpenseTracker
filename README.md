@@ -30,7 +30,7 @@ Graphs:
 
 ## Deployed at
 
-Project is at [https://expense-tracker-for-students.onrender.com/](https://expense-tracker-for-students.onrender.com/)
+Project is live at [https://expense-tracker-for-students.onrender.com/](https://expense-tracker-for-students.onrender.com/)
 
 ## Developed by
 Avani Jain   
